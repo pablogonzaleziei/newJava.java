@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SimpleCalculator",
+            "request": "launch",
+            "mainClass": "SimpleCalculator",
+            "projectName": "newJava.java_20f62687"
+        },
+        {
+            "type": "java",
             "name": "App6",
             "request": "launch",
             "mainClass": "App6",
