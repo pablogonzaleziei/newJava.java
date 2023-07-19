@@ -3,7 +3,7 @@ import java.time.LocalTime;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
-public class App {
+public class App6 {
     public static void main(String[] args) {
         // Enums
         DayOfWeek dayOfWeek = DayOfWeek.WEDNESDAY;
