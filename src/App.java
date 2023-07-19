@@ -49,7 +49,7 @@ public class App {
     }
 
     // Date and Time Formatting
-    public static double calculateCircleArea(int radius) {
-        return Math.PI * radius * radius;
-    }
+public static double calculateCircleArea(int radius) {
+    return Math.PI * radius * radius;
+}
 }

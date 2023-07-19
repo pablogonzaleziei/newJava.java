@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "App6",
+            "request": "launch",
+            "mainClass": "App6",
+            "projectName": "newJava.java_20f62687"
+        },
+        {
+            "type": "java",
+            "name": "App5",
+            "request": "launch",
+            "mainClass": "App5",
+            "projectName": "newJava.java_20f62687"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
